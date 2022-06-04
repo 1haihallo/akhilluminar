@@ -1,4 +1,4 @@
-num=123#1**3 +2**3+ 3**3
+num=123#1**3 +2**3+ 3**3 #armstrong
 sum=0
 while(num!=0):
     digit=num%10
