@@ -41,7 +41,7 @@ print(f"+ve count={count}, -ve count={coun},zero count={cou}")
 arr=[1,5,1,2,30,50,40,80,90]
 element=40
 for n in arr:
-    print("element found" if n == element else "element not found")
+    print("element found" if element == n else "element not found")
 numbers=[-1,2,2,3,0,-5,0,-1,2,3,0]
 sum=0
 sums=0
